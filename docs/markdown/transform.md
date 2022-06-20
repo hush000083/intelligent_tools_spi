@@ -5,7 +5,7 @@
 
 输入端 <span style = "color:indianred;background-color:lightgray">（Gemetry）</span> 拾取的物体以输入端 <span style = "color:indianred;background-color:lightgray">（Point）</span> 设定的镜像点利用小孔成像原理将物体根据输入端 <span style = "color:indianred;background-color:lightgray">（Factor）</span> 设定的缩放倍数进行变形翻转。
 
-<a href=""><img src="imgs/appendix_component\9_1_Affine Camera Obscura.png" height="auto" width=600 title="caDesign"></a>
+<a href=""><img src="./imgs/appendix_component\9_1_Affine Camera Obscura.png" height="auto" width=600 title="caDesign"></a>
 
 
 ### 9.1.2 Scale
@@ -13,8 +13,8 @@
 
 输入端 <span style = "color:indianred;background-color:lightgray">（Gemetry）</span> 拾取的物体以输入端 <span style = "color:indianred;background-color:lightgray">（Point）</span> 设定的缩放中心将物体根据输入端 <span style = "color:indianred;background-color:lightgray">（Factor）</span> 设定的缩放比例进行缩放。
 
-<a href=""><img src="imgs/appendix_component\9_1_Affine Scale1.png" height="auto" width=600 title="caDesign"></a>
-<a href=""><img src="imgs/appendix_component\9_1_Affine Scale2.png" height="auto" width=600 title="caDesign"></a>
+<a href=""><img src="./imgs/appendix_component\9_1_Affine Scale1.png" height="auto" width=600 title="caDesign"></a>
+<a href=""><img src="./imgs/appendix_component\9_1_Affine Scale2.png" height="auto" width=600 title="caDesign"></a>
 
 ### 9.1.3 Scale NU
 根据指定的缩放中心平面将物体进行 <span style = "color:indianred;background-color:lightgray">(X、Y、Z)</span> 三轴可控的缩放，其中三轴的方向就是指定平面 <span style = "color:indianred;background-color:lightgray">（plane）</span> 的三轴方向。
